@@ -12,4 +12,6 @@ Hint
 */
  
 //ik weet gewoon niet hoe ik moet beginnen
-int 
+for(int i = 1; i <= 10; i++){
+   println(i * 7);
+}
